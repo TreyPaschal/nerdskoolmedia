@@ -97,7 +97,8 @@ body:after {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
 
-.profile-img{border:solid 1px black;}
+.profile-img{border:solid 1px black; margin:0 auto;}
+
 .site-section {
   padding: 2.5em 0; }
   @media (min-width: 768px) {
